@@ -1,0 +1,12 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: 55px;
+    text-align: center;
+    font-weight: bold;
+}
+
+* {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
